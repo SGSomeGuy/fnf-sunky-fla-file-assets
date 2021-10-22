@@ -6,3 +6,15 @@ Just incase you dont feel like downloading a zip file and extracting it, i got y
 
 And if, adobe doesn't open or nothing just happened give it some time, and if nothing still happens after like 5 mins somethings wrong with your adobe/flash lmao.
 and if it does open but evverything is just like gray and like a few blocks and something on top that says "File" "new" stuff like that just wait and it will eventually load. Still need help? welp find some help elsewhere since i don't know everything about adobe/flash.
+
+
+![image](https://user-images.githubusercontent.com/92963724/138385821-abd69d7a-c130-4acf-bcaf-5f760f08d799.png)
+
+
+![image](https://user-images.githubusercontent.com/92963724/138385911-fe519505-524c-45e0-942a-0b8f1a28119d.png)
+
+
+![image](https://user-images.githubusercontent.com/92963724/138385934-c0a9afba-284e-4371-b75e-27b020220c3b.png)
+
+
+![image](https://user-images.githubusercontent.com/92963724/138385958-0ebd4e0d-d952-4d6a-96ae-122afb727506.png)
