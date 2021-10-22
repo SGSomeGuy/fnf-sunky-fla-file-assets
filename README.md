@@ -8,13 +8,13 @@ And if, adobe doesn't open or nothing just happened give it some time, and if no
 and if it does open but evverything is just like gray and like a few blocks and something on top that says "File" "new" stuff like that just wait and it will eventually load. Still need help? welp find some help elsewhere since i don't know everything about adobe/flash.
 
 
-![image](https://user-images.githubusercontent.com/92963724/138385821-abd69d7a-c130-4acf-bcaf-5f760f08d799.png)
+![image](https://user-images.githubusercontent.com/92963724/138385821-abd69d7a-c130-4acf-bcaf-5f760f08d799.png) -- What you need to type in the bar
 
 
-![image](https://user-images.githubusercontent.com/92963724/138385911-fe519505-524c-45e0-942a-0b8f1a28119d.png)
+![image](https://user-images.githubusercontent.com/92963724/138385911-fe519505-524c-45e0-942a-0b8f1a28119d.png) -- What happens when you run "git clone https://github.com/SMSomeGuy/fnf-sunky-fla-file-assets" and press enter in Command Prompt
 
 
-![image](https://user-images.githubusercontent.com/92963724/138385934-c0a9afba-284e-4371-b75e-27b020220c3b.png)
+![image](https://user-images.githubusercontent.com/92963724/138385934-c0a9afba-284e-4371-b75e-27b020220c3b.png) -- The folder that appears once it says "Done"
 
 
-![image](https://user-images.githubusercontent.com/92963724/138385958-0ebd4e0d-d952-4d6a-96ae-122afb727506.png)
+![image](https://user-images.githubusercontent.com/92963724/138385958-0ebd4e0d-d952-4d6a-96ae-122afb727506.png) -- The things that are inside the folder.
